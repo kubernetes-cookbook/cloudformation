@@ -556,7 +556,7 @@
             "UseOpsworksSecurityGroups":"false",
             "CustomCookbooksSource":{
                "Type":"git",
-               "Url":"https://github.com/carol-hsu/opsworks-recipes.git"
+               "Url":"https://github.com/kubernetes-cookbook/opsworks-recipes.git"
             },
             "ChefConfiguration":{
                "ManageBerkshelf":"true"
